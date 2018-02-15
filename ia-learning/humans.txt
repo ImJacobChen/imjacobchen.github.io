@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Jacob Chen -- Full Stack Developer -- https://github.com/ImJacobChen
+
+# THANKS
+
+  <name>
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3, Jquery, JavaScript, GulpJS
